@@ -1,0 +1,129 @@
+html, body, h1, h2, h3, h4, h5, h6, p, ol, ul, li, pre, code, address, form, fieldset, blockquote {
+    padding: 0;
+    margin: 0;
+   
+}
+
+header{
+    font-family: 'Lato', sans-serif;
+}
+
+.arriba{
+    background: rgb(41, 41, 41);
+    color: white;
+    height: 40px;
+    display: flex;
+}
+
+.derecha{
+    padding: 10px;
+}
+
+.derecha li {
+    list-style: none;
+    display: inline;
+    
+}
+
+.derecha li a{
+    text-decoration: none;
+    font-size: 14px;
+    padding: 10px 8px;
+    
+}
+
+.izquierda{
+    padding: 10px;
+    margin-left: 200px;
+}
+
+.izquierda li {
+    list-style: none;
+    display: inline;
+    
+}
+
+.izquierda li a{
+    text-decoration: none;
+    color: #f7f7f7;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    padding: 20px;
+}
+
+.personas a {
+    color: black;
+    background-color: white;
+}
+
+.boton a {
+    color: white;
+}
+
+.bancolombia img{
+    width: 200px;
+    padding: 30px;
+}
+
+.abajo{
+    display: flex;
+    
+}
+
+.abajo li {
+    list-style: none;
+    display: inline;
+}
+
+.abajo a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.botones_mitad{
+    margin-left: 100px;
+    margin-top: 40px;
+   
+}
+.botones_mitad a{
+    padding: 8px;
+    font-size: 14px;
+}
+
+.botones_izq{
+    margin-left: 100px;
+    display: flex;
+}
+
+.botones_izq a{
+    font-size: 12px;
+    padding: 8px;
+}
+
+.solicitud{
+    background-color: transparent;
+    border: 1px solid rgb(41, 41, 41);
+    height: 20px;
+    border-radius: 20px;
+    padding: 6px;
+    margin-top: 35px;
+}
+
+.entrar {
+    margin-top: 28px;
+    margin-left: 25px;
+    background: transparent;
+    box-shadow: 0px 0px 5px 1px rgb(204, 203, 203);
+    height: 20px;
+    padding: 15px;
+}
+
+.caja2 a{
+    background: #FDDA24;
+    border-radius: 20px;
+    padding: 15px;
+    margin-left: 10px;
+}
+
+

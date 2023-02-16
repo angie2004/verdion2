@@ -1,0 +1,42 @@
+
+header{
+    font-family: 'Roboto', sans-serif;
+    color: gray;
+}
+
+.botones{
+    margin-left: 60px;
+    border-radius: 10px;
+    display: flex;
+}
+
+.botones a{
+    text-decoration: none;
+    padding: 15px;
+    color: gray;
+}
+
+.caja1 {
+    display: flex;
+    margin-top: 30px;
+    border-bottom: 1px solid black;
+}
+
+.login{
+    margin-left: 200px;
+}
+
+.logo img{
+    margin-left: 400px;
+}
+
+.texto p{
+    margin-left: 500px;
+    
+}
+
+.caja3{
+    background-color: rgb(228, 228, 228);
+    height: 20px;
+}
+
